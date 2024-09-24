@@ -1,0 +1,33 @@
+/* CSS HEX */
+/* --isabelline: #edede9ff;
+--timberwolf: #d6ccc2ff;
+--linen: #f5ebe0ff;
+--champagne-pink: #e3d5caff;
+--pale-dogwood: #d5bdafff; 
+https://coolors.co/palette/edede9-d6ccc2-f5ebe0-e3d5ca-d5bdaf
+*/
+
+
+body {
+background-color:bisque;
+color:rgb(82, 67, 50);
+
+}
+
+img{
+    width: 300px;
+    border: 5px solid burlywood;
+    border-radius: 10px
+}
+
+h1{
+color:rgb(78, 67, 52)
+}
+
+h2{
+color:rgb(78, 67, 52)
+}
+h3{
+color:rgb(78, 67, 52)
+}
+
